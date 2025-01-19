@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Poppins', sans-serif; /* Custom global font */
+  background-color: rgb(221, 248, 199);
+
+  font-family: 'Poppins', sans-serif; /* Custom global font */
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+textarea {
+  resize: none;
+}
