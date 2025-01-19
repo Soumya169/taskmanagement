@@ -1,4 +1,4 @@
-<img src="Project.png" alt="My Image" width="300">
+<img src="Project.png" alt="My Image" width="550" height ="250">
 
 
 
